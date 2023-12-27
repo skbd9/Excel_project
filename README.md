@@ -47,4 +47,6 @@ Leveraging the data to identify underperforming pizzas or those receiving limite
 ![orders](https://github.com/skbd9/Excel_project/assets/108250623/69eb1901-de1b-47b3-9e45-d4950f4a599b)
 ![Category](https://github.com/skbd9/Excel_project/assets/108250623/32b041a0-dca1-4435-b47f-dfb827c78433)
 ![Summary](https://github.com/skbd9/Excel_project/assets/108250623/a80b6f6a-93be-43a5-a4f1-95720a61b46d)
+![goals](https://github.com/skbd9/Excel_project/assets/108250623/959edf59-bbc2-4d4f-aa2a-52d8c02f99d9)
+
 
