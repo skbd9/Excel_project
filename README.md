@@ -22,6 +22,21 @@ Utilizing data analytics to calculate the total revenue generated throughout the
 <strong>Menu Optimization and Promotions:</strong>
 
 Leveraging the data to identify underperforming pizzas or those receiving limited attention. This analysis aids in optimizing the menu by highlighting areas that may benefit from adjustments or strategic promotions to enhance overall sales performance.</p>
+<h1>Exploring Key Questions in Pizza Sales Data Analysis</h1>
+<p>1. Generating total revenue.<br>
+2. Achieving an average order value throughout the year.<br>
+3. Selling a total number of pizzas.<br>
+4. Processing total orders placed.<br>
+5. Calculating the average number of pizzas ordered per order.<br>
+6. Analyzing the daily trend for total orders, considering the sales trend by days of the week throughout the year.<br>
+7. Examining the monthly trend for total orders to understand seasonality.<br>
+8. Determining the percentage of total sales contributed by each pizza category.<br>
+9. Assessing the percentage of total sales contributed by each pizza size.<br>
+10. Identifying the top bestselling pizzas by revenue, total quantity, and total orders.<br>
+11. Identifying the lowest selling pizzas by revenue, total quantity, and total orders.<br>
+12. Keeping track of the number of customers served each day and identifying the busiest operating hours.<br>
+13. Monitoring average orders placed per day and pizzas sold per day.<br>
+</p>
 
 
 
