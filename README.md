@@ -38,9 +38,6 @@ Leveraging the data to identify underperforming pizzas or those receiving limite
 13. Monitoring average orders placed per day and pizzas sold per day.<br>
 </p>
 <h1>Contact me!</h1>
-<li>Email: <a href=" https://mail.google.com/">tryforme31@gmail.com</a></li>
-
-
-
-
+<p>Feel free to reach out to us,Email: <a href="https://mail.google.com/">tryforme31@gmail.com</a>
+ if you have any questions, suggestions, or just want to say hello. We would love to hear from you!</p>
 
