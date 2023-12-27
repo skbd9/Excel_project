@@ -37,6 +37,9 @@ Leveraging the data to identify underperforming pizzas or those receiving limite
 12. Keeping track of the number of customers served each day and identifying the busiest operating hours.<br>
 13. Monitoring average orders placed per day and pizzas sold per day.<br>
 </p>
+<h1>Contact me!</h1>
+<li>Email: <a href=" https://mail.google.com/">tryforme31@gmail.com</a></li>
+
 
 
 
