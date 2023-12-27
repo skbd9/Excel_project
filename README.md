@@ -40,4 +40,7 @@ Leveraging the data to identify underperforming pizzas or those receiving limite
 <h1>Contact me!</h1>
 <p>Feel free to reach out to us,Email: <a href="https://mail.google.com/">tryforme31@gmail.com</a>
  if you have any questions, suggestions, or just want to say hello. We would love to hear from you!</p>
+ <br>
+ <img src="file:///‪C:/Users/use/Pictures/Saved Pictures/home.jpg" alt="Your Image">
+
 
