@@ -41,6 +41,7 @@ Leveraging the data to identify underperforming pizzas or those receiving limite
 <p>Feel free to reach out to us,Email: <a href="https://mail.google.com/">tryforme31@gmail.com</a>
  if you have any questions, suggestions, or just want to say hello. We would love to hear from you!</p>
  <br>
- <img src="file:///‪C:/Users/use/Pictures/Saved Pictures/home.jpg" alt="Your Image">
+![home](https://github.com/skbd9/Excel_project/assets/108250623/5d5b37ec-1da4-4914-877e-a6ff815b8cd0)
+
 
 
