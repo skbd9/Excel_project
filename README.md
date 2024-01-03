@@ -1,4 +1,4 @@
-<h1>Pizza Sales Analysis</h1>
+<h1>Pizza Sales Analysis 🍕📊</h1>
 <p></p>Welcome to our GitHub repository dedicated to Pizza Sales Analysis! Here, we delve into a comprehensive examination of various aspects related to pizza sales over a specific period. From total revenue generation and average order values to pizza category and size contributions, we aim to provide valuable insights into the dynamics of pizza sales. Our analysis covers trends on a daily and monthly basis, identifies top and lowest sellers, and explores customer behavior, making this repository a valuable resource for anyone interested in understanding the intricacies of pizza sales data. Join us on this analytical journey, where each commit brings us closer to unraveling the delicious story behind pizza sales trends.</p>
 
 <h1>Data Overview</h1>
